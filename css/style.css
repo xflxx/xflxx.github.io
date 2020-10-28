@@ -1,0 +1,61 @@
+* {
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background: url("https://kek.gg/i/885tfP.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+}
+
+.row {
+  background-color: #ffffff;
+}
+
+header {
+  height: 50px;
+  color: #ffffff;
+}
+
+.text {
+  background: #ffffff;
+}
+
+.navbar.transparent.navbar-fixed-top {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.footertext {
+  text-align: center;
+  color: #ffffff;
+  padding-top: 10px;
+}
+
+.asd.navbar-default.navbar-static-bottom.navbar-fixed-bottom {
+  background-color: #ffffff;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+
+.footer {
+  height: 40px;
+  background-color: rgba(0, 0, 0, 0.6);
+  position: absolute;
+  bottom: 0;
+  margin-top: 40px;
+  width: 100%;
+}
+
+.navbarcenter {
+  width: 959px;
+}
