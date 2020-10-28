@@ -5,7 +5,6 @@
 }
 
 body {
-  background: url("https://kek.gg/i/885tfP.png") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -29,6 +28,10 @@ header {
   background: #ffffff;
 }
 
+table, th, td {
+  border: 1px solid black;
+}
+
 .navbar.transparent.navbar-fixed-top {
   background-color: rgba(0, 0, 0, 0.6);
 }
@@ -39,7 +42,7 @@ header {
   padding-top: 10px;
 }
 
-.asd.navbar-default.navbar-static-bottom.navbar-fixed-bottom {
+.asd.navbar-default {
   background-color: #ffffff;
   padding-top: 40px;
   padding-bottom: 20px;
